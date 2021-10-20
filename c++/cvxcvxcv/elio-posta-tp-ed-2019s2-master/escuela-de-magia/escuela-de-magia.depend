@@ -1,0 +1,219 @@
+# depslib dependency file v1.0
+1446667744 source:c:\users\sawad\dropbox\profe unq\ed\tps\2019s2\tp\escuela-de-magia\main.cpp
+	<iostream>
+
+1570916433 source:c:\users\sawad\dropbox\profe unq\ed\tps\2019s2\tp_esqueleto\hechizo\hechizo.cpp
+	"hechizo.h"
+
+1572826891 c:\users\sawad\dropbox\profe unq\ed\tps\2019s2\tp_esqueleto\hechizo\hechizo.h
+	<iostream>
+
+1572823283 source:c:\users\sawad\dropbox\profe unq\ed\tps\2019s2\tp_esqueleto\mago\mago.cpp
+	"mago.h"
+
+1572823278 c:\users\sawad\dropbox\profe unq\ed\tps\2019s2\tp_esqueleto\mago\mago.h
+	<iostream>
+	"../hechizo/hechizo.h"
+	"../set/set.h"
+
+1571081021 c:\users\sawad\dropbox\profe unq\ed\tps\2019s2\tp_esqueleto\set\set.h
+	"../hechizo/hechizo.h"
+
+1574637510 source:c:\users\sawad\dropbox\profe unq\ed\tps\2019s2\tp_esqueleto\map\map.cpp
+	"map.h"
+	"../common/Common.h"
+
+1571085267 c:\users\sawad\dropbox\profe unq\ed\tps\2019s2\tp_esqueleto\map\map.h
+	<iostream>
+	<cstdlib>
+	<vector>
+	"../mago/mago.h"
+
+1563630170 c:\users\sawad\dropbox\profe unq\ed\tps\2019s2\tp_esqueleto\common\common.h
+	<ctime>
+	<cstdio>
+	<cstdlib>
+	<cassert>
+	<iostream>
+
+1574638066 source:c:\users\sawad\dropbox\profe unq\ed\tps\2019s2\tp_esqueleto\maxheap\maxheap.cpp
+	"maxheap.h"
+	"../common/Common.h"
+
+1572822976 c:\users\sawad\dropbox\profe unq\ed\tps\2019s2\tp_esqueleto\maxheap\maxheap.h
+	<iostream>
+	"../mago/mago.h"
+
+1570921271 source:c:\users\sawad\dropbox\profe unq\ed\tps\2019s2\tp_esqueleto\set\set.cpp
+	"set.h"
+
+1574639004 source:c:\users\sawad\dropbox\profe unq\ed\tps\2019s2\tp_esqueleto\escuela-de-magia\escuela_magia.cpp
+	"escuela_magia.h"
+	"../common/Common.h"
+
+1574639067 c:\users\sawad\dropbox\profe unq\ed\tps\2019s2\tp_esqueleto\escuela-de-magia\escuela_magia.h
+	<iostream>
+	<cstdlib>
+	<vector>
+	"../hechizo/hechizo.h"
+	"../mago/mago.h"
+	"../set/set.h"
+	"../map/map.h"
+	"../maxheap/maxheap.h"
+
+1574639483 source:c:\users\sawad\dropbox\profe unq\ed\tps\2019s2\tp_esqueleto\escuela-de-magia\main.cpp
+	<iostream>
+	<cstdlib>
+	<vector>
+	"../hechizo/hechizo.h"
+	"../mago/mago.h"
+	"../set/set.h"
+	"../map/map.h"
+	"../maxheap/maxheap.h"
+	"escuela_magia.h"
+	"../common/Common.h"
+
+1574716628 source:c:\users\posta elio\desktop\c++\elio-posta-tp-ed-2019s2-master\hechizo\hechizo.cpp
+	"hechizo.h"
+	"../common/Common.h"
+
+1574716628 c:\users\posta elio\desktop\c++\elio-posta-tp-ed-2019s2-master\hechizo\hechizo.h
+	<iostream>
+
+1574716628 c:\users\posta elio\desktop\c++\elio-posta-tp-ed-2019s2-master\common\common.h
+	<ctime>
+	<cstdio>
+	<cstdlib>
+	<cassert>
+	<iostream>
+
+1574716628 source:c:\users\posta elio\desktop\c++\elio-posta-tp-ed-2019s2-master\mago\mago.cpp
+	"mago.h"
+	"../common/Common.h"
+
+1574716628 c:\users\posta elio\desktop\c++\elio-posta-tp-ed-2019s2-master\mago\mago.h
+	<iostream>
+	"../hechizo/hechizo.h"
+	"../set/set.h"
+
+1574716628 c:\users\posta elio\desktop\c++\elio-posta-tp-ed-2019s2-master\set\set.h
+	"../hechizo/hechizo.h"
+
+1575312166 source:c:\users\posta elio\desktop\c++\elio-posta-tp-ed-2019s2-master\map\map.cpp
+	"map.h"
+	"../common/Common.h"
+
+1574716628 c:\users\posta elio\desktop\c++\elio-posta-tp-ed-2019s2-master\map\map.h
+	<iostream>
+	<cstdlib>
+	<vector>
+	"../mago/mago.h"
+
+1574808528 source:c:\users\posta elio\desktop\c++\elio-posta-tp-ed-2019s2-master\maxheap\maxheap.cpp
+	"maxheap.h"
+	"../common/Common.h"
+
+1574716628 c:\users\posta elio\desktop\c++\elio-posta-tp-ed-2019s2-master\maxheap\maxheap.h
+	<iostream>
+	"../mago/mago.h"
+
+1574806262 source:c:\users\posta elio\desktop\c++\elio-posta-tp-ed-2019s2-master\set\set.cpp
+	"set.h"
+	"../common/Common.h"
+
+1574716628 source:c:\users\posta elio\desktop\c++\elio-posta-tp-ed-2019s2-master\escuela-de-magia\escuela_magia.cpp
+	"escuela_magia.h"
+	"../common/Common.h"
+
+1574716628 c:\users\posta elio\desktop\c++\elio-posta-tp-ed-2019s2-master\escuela-de-magia\escuela_magia.h
+	<iostream>
+	<cstdlib>
+	<vector>
+	"../hechizo/hechizo.h"
+	"../mago/mago.h"
+	"../set/set.h"
+	"../map/map.h"
+	"../maxheap/maxheap.h"
+
+1574716628 source:c:\users\posta elio\desktop\c++\elio-posta-tp-ed-2019s2-master\escuela-de-magia\main.cpp
+	<iostream>
+	<cstdlib>
+	<vector>
+	"../hechizo/hechizo.h"
+	"../mago/mago.h"
+	"../set/set.h"
+	"../map/map.h"
+	"../maxheap/maxheap.h"
+	"escuela_magia.h"
+	"../common/Common.h"
+
+1575321199 source:c:\users\publico\desktop\elio-posta-tp-ed-2019s2-master\hechizo\hechizo.cpp
+	"hechizo.h"
+	"../common/Common.h"
+
+1575321199 c:\users\publico\desktop\elio-posta-tp-ed-2019s2-master\hechizo\hechizo.h
+	<iostream>
+
+1575321200 c:\users\publico\desktop\elio-posta-tp-ed-2019s2-master\common\common.h
+	<ctime>
+	<cstdio>
+	<cstdlib>
+	<cassert>
+	<iostream>
+
+1575321200 source:c:\users\publico\desktop\elio-posta-tp-ed-2019s2-master\mago\mago.cpp
+	"mago.h"
+	"../common/Common.h"
+
+1575321200 c:\users\publico\desktop\elio-posta-tp-ed-2019s2-master\mago\mago.h
+	<iostream>
+	"../hechizo/hechizo.h"
+	"../set/set.h"
+
+1574198381 c:\users\publico\desktop\elio-posta-tp-ed-2019s2-master\set\set.h
+	"../hechizo/hechizo.h"
+
+1575321199 source:c:\users\publico\desktop\elio-posta-tp-ed-2019s2-master\map\map.cpp
+	"map.h"
+	"../common/Common.h"
+
+1575321199 c:\users\publico\desktop\elio-posta-tp-ed-2019s2-master\map\map.h
+	<iostream>
+	<cstdlib>
+	<vector>
+	"../mago/mago.h"
+
+1575324214 source:c:\users\publico\desktop\elio-posta-tp-ed-2019s2-master\maxheap\maxheap.cpp
+	"maxheap.h"
+	"../common/Common.h"
+
+1575321199 c:\users\publico\desktop\elio-posta-tp-ed-2019s2-master\maxheap\maxheap.h
+	<iostream>
+	"../mago/mago.h"
+
+1574202077 source:c:\users\publico\desktop\elio-posta-tp-ed-2019s2-master\set\set.cpp
+	"set.h"
+	"../common/Common.h"
+
+1575326550 source:c:\users\publico\desktop\elio-posta-tp-ed-2019s2-master\escuela-de-magia\main.cpp
+	<iostream>
+	<cstdlib>
+	<vector>
+	"../hechizo/hechizo.h"
+	"../mago/mago.h"
+	"../set/set.h"
+	"../map/map.h"
+	"../maxheap/maxheap.h"
+	"escuela_magia.h"
+	"../common/Common.h"
+
+1575326555 c:\users\publico\desktop\elio-posta-tp-ed-2019s2-master\escuela-de-magia\escuela_magia.h
+	<iostream>
+	<cstdlib>
+	<vector>
+	"../hechizo/hechizo.h"
+	"../mago/mago.h"
+	"../set/set.h"
+	"../map/map.h"
+	"../maxheap/maxheap.h"
+

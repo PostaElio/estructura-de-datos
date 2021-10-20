@@ -1,0 +1,91 @@
+# depslib dependency file v1.0
+1570917567 source:c:\users\sawad\dropbox\profe unq\ed\tps\2019s2\tp\set\main.cpp
+	<iostream>
+	"test_set.h"
+
+1570921271 source:c:\users\sawad\dropbox\profe unq\ed\tps\2019s2\tp\set\set.cpp
+	"set.h"
+
+1570916433 source:c:\users\sawad\dropbox\profe unq\ed\tps\2019s2\tp\hechizo\hechizo.cpp
+	"hechizo.h"
+
+1572826891 c:\users\sawad\dropbox\profe unq\ed\tps\2019s2\tp\hechizo\hechizo.h
+	<iostream>
+
+1571081021 c:\users\sawad\dropbox\profe unq\ed\tps\2019s2\tp\set\set.h
+	"../hechizo/hechizo.h"
+
+1570921545 c:\users\sawad\dropbox\profe unq\ed\tps\2019s2\tp\set\test_set.h
+	"set.h"
+	"../common/Test.h"
+
+1570914659 c:\users\sawad\dropbox\profe unq\ed\tps\2019s2\tp\common\test.h
+	<iostream>
+	<string>
+	<cstdlib>
+	<vector>
+
+1570918152 c:\users\sawad\dropbox\profe unq\ed\tps\2019s2\tp\set\set.cpp
+	"set.h"
+
+1570917567 source:c:\users\sawad\dropbox\profe unq\ed\tps\2019s2\tp_esqueleto\set\main.cpp
+	<iostream>
+	"test_set.h"
+
+1570921545 c:\users\sawad\dropbox\profe unq\ed\tps\2019s2\tp_esqueleto\set\test_set.h
+	"set.h"
+	"../common/Test.h"
+
+1571081021 c:\users\sawad\dropbox\profe unq\ed\tps\2019s2\tp_esqueleto\set\set.h
+	"../hechizo/hechizo.h"
+
+1572826891 c:\users\sawad\dropbox\profe unq\ed\tps\2019s2\tp_esqueleto\hechizo\hechizo.h
+	<iostream>
+
+1570914659 c:\users\sawad\dropbox\profe unq\ed\tps\2019s2\tp_esqueleto\common\test.h
+	<iostream>
+	<string>
+	<cstdlib>
+	<vector>
+
+1570921271 source:c:\users\sawad\dropbox\profe unq\ed\tps\2019s2\tp_esqueleto\set\set.cpp
+	"set.h"
+
+1570916433 source:c:\users\sawad\dropbox\profe unq\ed\tps\2019s2\tp_esqueleto\hechizo\hechizo.cpp
+	"hechizo.h"
+
+1574716628 source:c:\users\posta elio\desktop\c++\elio-posta-tp-ed-2019s2-master\hechizo\hechizo.cpp
+	"hechizo.h"
+	"../common/Common.h"
+
+1574716628 c:\users\posta elio\desktop\c++\elio-posta-tp-ed-2019s2-master\hechizo\hechizo.h
+	<iostream>
+
+1574716628 c:\users\posta elio\desktop\c++\elio-posta-tp-ed-2019s2-master\common\common.h
+	<ctime>
+	<cstdio>
+	<cstdlib>
+	<cassert>
+	<iostream>
+
+1574716628 source:c:\users\posta elio\desktop\c++\elio-posta-tp-ed-2019s2-master\set\main.cpp
+	<iostream>
+	"test_set.h"
+
+1574805049 c:\users\posta elio\desktop\c++\elio-posta-tp-ed-2019s2-master\set\test_set.h
+	"set.h"
+	"../common/Test.h"
+
+1574716628 c:\users\posta elio\desktop\c++\elio-posta-tp-ed-2019s2-master\set\set.h
+	"../hechizo/hechizo.h"
+
+1574716628 c:\users\posta elio\desktop\c++\elio-posta-tp-ed-2019s2-master\common\test.h
+	<iostream>
+	<string>
+	<cstdlib>
+	<vector>
+
+1574806262 source:c:\users\posta elio\desktop\c++\elio-posta-tp-ed-2019s2-master\set\set.cpp
+	"set.h"
+	"../common/Common.h"
+

@@ -1,0 +1,61 @@
+#ifndef TEST_MAGO_H
+#define TEST_MAGO_H
+
+#include "mago.h"
+#include "../hechizo/hechizo.h"
+#include "../common/Test.h"
+
+///***************************** Tests de Hechizo *****************************/
+
+TEST(test_crearMago_nombre_y_hechizos, {
+   Mago m1 = crearMago("harry");
+	ASSERT_EQ(nombreMago(m1), "harry");
+	ASSERT_EQ(sizeS(hechizosMago(m1)), 0);
+
+   Mago m2 = crearMago("voldemort");
+	ASSERT_EQ(nombreMago(m2), "voldemort");
+	ASSERT_EQ(sizeS(hechizosMago(m2)), 0);
+})
+
+//TEST(test_un_aprenderHechizo, {
+//   Mago m1 = crearMago("harry");
+//   aprenderHechizo(crearHechizo("flipendo", 1), m1);
+//	ASSERT_EQ(sizeS(hechizosMago(m1)), 1);
+//	ASSERT_EQ(belongsS(crearHechizo("flipendo", 1), hechizosMago(m1)), true);
+//	ASSERT_EQ(belongsS(crearHechizo("leviosa", 1), hechizosMago(m1)), false);
+//})
+
+TEST(test_mismoMago, {
+	ASSERT_EQ(mismoMago(crearMago("harry"), crearMago("harry")), true);
+	ASSERT_EQ(mismoMago(crearMago("harry"), crearMago("hermione")), false);
+})
+
+TEST(test_sabeMasMago, {
+   Mago m1 = crearMago("harry");
+   aprenderHechizo(crearHechizo("flipendo", 1), m1);
+   aprenderHechizo(crearHechizo("leviosa", 2), m1);
+
+   Mago m2 = crearMago("hermione");
+   aprenderHechizo(crearHechizo("flipendo", 1), m1);
+
+	ASSERT_EQ(sabeMasMago(m1, m1), false);
+	ASSERT_EQ(sabeMasMago(m1, m2), true);
+})
+
+TEST(test_destroyMago, {
+   Mago m1 = crearMago("harry");
+   aprenderHechizo(crearHechizo("flipendo", 1), m1);
+   aprenderHechizo(crearHechizo("leviosa", 2), m1);
+   destroyMago(m1);
+})
+
+void correrTestMago() {
+   test_crearMago_nombre_y_hechizos();
+//   test_un_aprenderHechizo();
+   test_mismoMago();
+   test_sabeMasMago();
+   test_destroyMago();
+}
+
+#endif
+

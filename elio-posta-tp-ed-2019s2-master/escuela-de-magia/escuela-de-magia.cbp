@@ -1,0 +1,57 @@
+<?xml version="1.0" encoding="UTF-8" standalone="yes" ?>
+<CodeBlocks_project_file>
+	<FileVersion major="1" minor="6" />
+	<Project>
+		<Option title="escuela-de-magia" />
+		<Option pch_mode="2" />
+		<Option compiler="gcc" />
+		<Build>
+			<Target title="Debug">
+				<Option output="bin/Debug/escuela-de-magia" prefix_auto="1" extension_auto="1" />
+				<Option object_output="obj/Debug/" />
+				<Option type="1" />
+				<Option compiler="gcc" />
+				<Compiler>
+					<Add option="-g" />
+				</Compiler>
+			</Target>
+			<Target title="Release">
+				<Option output="bin/Release/escuela-de-magia" prefix_auto="1" extension_auto="1" />
+				<Option object_output="obj/Release/" />
+				<Option type="1" />
+				<Option compiler="gcc" />
+				<Compiler>
+					<Add option="-O2" />
+				</Compiler>
+				<Linker>
+					<Add option="-s" />
+				</Linker>
+			</Target>
+		</Build>
+		<Compiler>
+			<Add option="-Wall" />
+			<Add option="-fexceptions" />
+		</Compiler>
+		<Unit filename="../common/Common.h" />
+		<Unit filename="../common/Test.h" />
+		<Unit filename="../hechizo/hechizo.cpp" />
+		<Unit filename="../hechizo/hechizo.h" />
+		<Unit filename="../mago/mago.cpp" />
+		<Unit filename="../mago/mago.h" />
+		<Unit filename="../map/map.cpp" />
+		<Unit filename="../map/map.h" />
+		<Unit filename="../maxheap/maxheap.cpp" />
+		<Unit filename="../maxheap/maxheap.h" />
+		<Unit filename="../set/set.cpp" />
+		<Unit filename="../set/set.h" />
+		<Unit filename="escuela_magia.cpp" />
+		<Unit filename="escuela_magia.h" />
+		<Unit filename="main.cpp" />
+		<Extensions>
+			<code_completion />
+			<envvars />
+			<debugger />
+			<lib_finder disable_auto="1" />
+		</Extensions>
+	</Project>
+</CodeBlocks_project_file>

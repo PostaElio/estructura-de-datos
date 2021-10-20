@@ -1,0 +1,158 @@
+# depslib dependency file v1.0
+1570916433 source:c:\users\sawad\dropbox\profe unq\ed\tps\2019s2\tp\hechizo\hechizo.cpp
+	"hechizo.h"
+
+1572826891 c:\users\sawad\dropbox\profe unq\ed\tps\2019s2\tp\hechizo\hechizo.h
+	<iostream>
+
+1571081548 source:c:\users\sawad\dropbox\profe unq\ed\tps\2019s2\tp\mago\mago.cpp
+	"mago.h"
+
+1572823278 c:\users\sawad\dropbox\profe unq\ed\tps\2019s2\tp\mago\mago.h
+	<iostream>
+	"../hechizo/hechizo.h"
+	"../set/set.h"
+
+1571081021 c:\users\sawad\dropbox\profe unq\ed\tps\2019s2\tp\set\set.h
+	"../hechizo/hechizo.h"
+
+1570921271 source:c:\users\sawad\dropbox\profe unq\ed\tps\2019s2\tp\set\set.cpp
+	"set.h"
+
+1571082868 source:c:\users\sawad\dropbox\profe unq\ed\tps\2019s2\tp\map\main.cpp
+	<iostream>
+	"test_map.h"
+
+1571096880 c:\users\sawad\dropbox\profe unq\ed\tps\2019s2\tp\map\test_map.h
+	"map.h"
+	"../common/Test.h"
+
+1571085267 c:\users\sawad\dropbox\profe unq\ed\tps\2019s2\tp\map\map.h
+	<iostream>
+	<cstdlib>
+	<vector>
+	"../mago/mago.h"
+
+1570914659 c:\users\sawad\dropbox\profe unq\ed\tps\2019s2\tp\common\test.h
+	<iostream>
+	<string>
+	<cstdlib>
+	<vector>
+
+1571097669 source:c:\users\sawad\dropbox\profe unq\ed\tps\2019s2\tp\map\map.cpp
+	"map.h"
+
+1571082868 source:c:\users\sawad\dropbox\profe unq\ed\tps\2019s2\tp_esqueleto\map\main.cpp
+	<iostream>
+	"test_map.h"
+
+1571096880 c:\users\sawad\dropbox\profe unq\ed\tps\2019s2\tp_esqueleto\map\test_map.h
+	"map.h"
+	"../common/Test.h"
+
+1571085267 c:\users\sawad\dropbox\profe unq\ed\tps\2019s2\tp_esqueleto\map\map.h
+	<iostream>
+	<cstdlib>
+	<vector>
+	"../mago/mago.h"
+
+1572823278 c:\users\sawad\dropbox\profe unq\ed\tps\2019s2\tp_esqueleto\mago\mago.h
+	<iostream>
+	"../hechizo/hechizo.h"
+	"../set/set.h"
+
+1572826891 c:\users\sawad\dropbox\profe unq\ed\tps\2019s2\tp_esqueleto\hechizo\hechizo.h
+	<iostream>
+
+1571081021 c:\users\sawad\dropbox\profe unq\ed\tps\2019s2\tp_esqueleto\set\set.h
+	"../hechizo/hechizo.h"
+
+1570914659 c:\users\sawad\dropbox\profe unq\ed\tps\2019s2\tp_esqueleto\common\test.h
+	<iostream>
+	<string>
+	<cstdlib>
+	<vector>
+
+1574637282 source:c:\users\sawad\dropbox\profe unq\ed\tps\2019s2\tp_esqueleto\map\map.cpp
+	"map.h"
+	"../common/Common.h"
+
+1570916433 source:c:\users\sawad\dropbox\profe unq\ed\tps\2019s2\tp_esqueleto\hechizo\hechizo.cpp
+	"hechizo.h"
+
+1572823283 source:c:\users\sawad\dropbox\profe unq\ed\tps\2019s2\tp_esqueleto\mago\mago.cpp
+	"mago.h"
+
+1570921271 source:c:\users\sawad\dropbox\profe unq\ed\tps\2019s2\tp_esqueleto\set\set.cpp
+	"set.h"
+
+1563630170 c:\users\sawad\dropbox\profe unq\ed\tps\2019s2\tp_esqueleto\common\common.h
+	<ctime>
+	<cstdio>
+	<cstdlib>
+	<cassert>
+	<iostream>
+
+1574803984 source:c:\users\posta elio\desktop\c++\set\set.cpp
+	"set.h"
+
+1574188454 c:\users\posta elio\desktop\c++\set\set.h
+	"../hechizo/hechizo.h"
+
+1574188424 c:\users\posta elio\desktop\c++\hechizo\hechizo.h
+	<iostream>
+
+1574716628 source:c:\users\posta elio\desktop\c++\elio-posta-tp-ed-2019s2-master\hechizo\hechizo.cpp
+	"hechizo.h"
+	"../common/Common.h"
+
+1574716628 c:\users\posta elio\desktop\c++\elio-posta-tp-ed-2019s2-master\hechizo\hechizo.h
+	<iostream>
+
+1574716628 c:\users\posta elio\desktop\c++\elio-posta-tp-ed-2019s2-master\common\common.h
+	<ctime>
+	<cstdio>
+	<cstdlib>
+	<cassert>
+	<iostream>
+
+1574806262 source:c:\users\posta elio\desktop\c++\elio-posta-tp-ed-2019s2-master\set\set.cpp
+	"set.h"
+	"../common/Common.h"
+
+1574716628 c:\users\posta elio\desktop\c++\elio-posta-tp-ed-2019s2-master\set\set.h
+	"../hechizo/hechizo.h"
+
+1574716628 source:c:\users\posta elio\desktop\c++\elio-posta-tp-ed-2019s2-master\map\main.cpp
+	<iostream>
+	"test_map.h"
+
+1574716628 c:\users\posta elio\desktop\c++\elio-posta-tp-ed-2019s2-master\map\test_map.h
+	"map.h"
+	"../common/Test.h"
+
+1574716628 c:\users\posta elio\desktop\c++\elio-posta-tp-ed-2019s2-master\map\map.h
+	<iostream>
+	<cstdlib>
+	<vector>
+	"../mago/mago.h"
+
+1574716628 c:\users\posta elio\desktop\c++\elio-posta-tp-ed-2019s2-master\mago\mago.h
+	<iostream>
+	"../hechizo/hechizo.h"
+	"../set/set.h"
+
+1574716628 c:\users\posta elio\desktop\c++\elio-posta-tp-ed-2019s2-master\common\test.h
+	<iostream>
+	<string>
+	<cstdlib>
+	<vector>
+
+1574716628 source:c:\users\posta elio\desktop\c++\elio-posta-tp-ed-2019s2-master\mago\mago.cpp
+	"mago.h"
+	"../common/Common.h"
+
+1575312166 source:c:\users\posta elio\desktop\c++\elio-posta-tp-ed-2019s2-master\map\map.cpp
+	"map.h"
+	"../common/Common.h"
+

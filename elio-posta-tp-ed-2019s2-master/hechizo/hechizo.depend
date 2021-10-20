@@ -1,0 +1,38 @@
+# depslib dependency file v1.0
+1570916433 source:c:\users\sawad\dropbox\profe unq\ed\tps\2019s2\tp\hechizo\hechizo.cpp
+	"hechizo.h"
+
+1572826891 c:\users\sawad\dropbox\profe unq\ed\tps\2019s2\tp\hechizo\hechizo.h
+	<iostream>
+
+1570915484 source:c:\users\sawad\dropbox\profe unq\ed\tps\2019s2\tp\hechizo\main.cpp
+	<iostream>
+	"test_hechizo.h"
+
+1572827140 c:\users\sawad\dropbox\profe unq\ed\tps\2019s2\tp\hechizo\test_hechizo.h
+	"hechizo.h"
+	"../common/Test.h"
+
+1570914659 c:\users\sawad\dropbox\profe unq\ed\tps\2019s2\tp\common\test.h
+	<iostream>
+	<string>
+	<cstdlib>
+	<vector>
+
+1570915484 source:c:\users\sawad\dropbox\profe unq\ed\tps\2019s2\esqueleto\hechizo\main.cpp
+	<iostream>
+	"test_hechizo.h"
+
+1572827140 c:\users\sawad\dropbox\profe unq\ed\tps\2019s2\esqueleto\hechizo\test_hechizo.h
+	"hechizo.h"
+	"../common/Test.h"
+
+1572832734 c:\users\sawad\dropbox\profe unq\ed\tps\2019s2\esqueleto\hechizo\hechizo.h
+	<iostream>
+
+1570914659 c:\users\sawad\dropbox\profe unq\ed\tps\2019s2\esqueleto\common\test.h
+	<iostream>
+	<string>
+	<cstdlib>
+	<vector>
+

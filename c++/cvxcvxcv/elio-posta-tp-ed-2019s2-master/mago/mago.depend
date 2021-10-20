@@ -1,0 +1,78 @@
+# depslib dependency file v1.0
+1570916433 source:c:\users\sawad\dropbox\profe unq\ed\tps\2019s2\tp\hechizo\hechizo.cpp
+	"hechizo.h"
+
+1572826891 c:\users\sawad\dropbox\profe unq\ed\tps\2019s2\tp\hechizo\hechizo.h
+	<iostream>
+
+1570921271 source:c:\users\sawad\dropbox\profe unq\ed\tps\2019s2\tp\set\set.cpp
+	"set.h"
+
+1571081021 c:\users\sawad\dropbox\profe unq\ed\tps\2019s2\tp\set\set.h
+	"../hechizo/hechizo.h"
+
+1571081315 source:c:\users\sawad\dropbox\profe unq\ed\tps\2019s2\tp\mago\main.cpp
+	<iostream>
+	"test_mago.h"
+
+1572823283 source:c:\users\sawad\dropbox\profe unq\ed\tps\2019s2\tp\mago\mago.cpp
+	"mago.h"
+
+1572823278 c:\users\sawad\dropbox\profe unq\ed\tps\2019s2\tp\mago\mago.h
+	<iostream>
+	"../hechizo/hechizo.h"
+	"../set/set.h"
+
+1572826936 c:\users\sawad\dropbox\profe unq\ed\tps\2019s2\tp\mago\test_mago.h
+	<iostream>
+	"mago.h"
+	"../hechizo/hechizo.h"
+	"../common/Test.h"
+
+1570914659 c:\users\sawad\dropbox\profe unq\ed\tps\2019s2\tp\common\test.h
+	<iostream>
+	<string>
+	<cstdlib>
+	<vector>
+
+1570916433 source:c:\users\sawad\dropbox\profe unq\ed\tps\2019s2\tp_esqueleto\hechizo\hechizo.cpp
+	"hechizo.h"
+
+1572826891 c:\users\sawad\dropbox\profe unq\ed\tps\2019s2\tp_esqueleto\hechizo\hechizo.h
+	<iostream>
+
+1573340281 source:c:\users\sawad\dropbox\profe unq\ed\tps\2019s2\tp_esqueleto\set\set.cpp
+	"set.h"
+	"../common/Common.h"
+
+1571081021 c:\users\sawad\dropbox\profe unq\ed\tps\2019s2\tp_esqueleto\set\set.h
+	"../hechizo/hechizo.h"
+
+1563630170 c:\users\sawad\dropbox\profe unq\ed\tps\2019s2\tp_esqueleto\common\common.h
+	<ctime>
+	<cstdio>
+	<cstdlib>
+	<cassert>
+	<iostream>
+
+1571081315 source:c:\users\sawad\dropbox\profe unq\ed\tps\2019s2\tp_esqueleto\mago\main.cpp
+	<iostream>
+	"test_mago.h"
+
+1572826936 c:\users\sawad\dropbox\profe unq\ed\tps\2019s2\tp_esqueleto\mago\test_mago.h
+	<iostream>
+	"mago.h"
+	"../hechizo/hechizo.h"
+	"../common/Test.h"
+
+1572823278 c:\users\sawad\dropbox\profe unq\ed\tps\2019s2\tp_esqueleto\mago\mago.h
+	<iostream>
+	"../hechizo/hechizo.h"
+	"../set/set.h"
+
+1570914659 c:\users\sawad\dropbox\profe unq\ed\tps\2019s2\tp_esqueleto\common\test.h
+	<iostream>
+	<string>
+	<cstdlib>
+	<vector>
+
